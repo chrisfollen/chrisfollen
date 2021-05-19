@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there ✌🏼
+
+I'm a front-end web developer and freelance photographer based in Boulder, Colorado. I like thinking, creating, problem solving, and learning. I’m passionate about everything I do, and am particularly intrigued by work that marries an aesthetic component with a technical one.
+
+- 🌱 I’m currently learning ...
+- - 😄 Pronouns: He / Him
+- ⚡ Fun fact: I've surfed in the Arctic Circle
 
 <!--
 **chrisfollen/chrisfollen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
