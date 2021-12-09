@@ -1,6 +1,6 @@
 ### Hi there ✌🏼
 
-I'm a front-end web developer and freelance photographer based in Boulder, Colorado. I like thinking, creating, problem solving, and learning. I’m passionate about everything I do, and am particularly intrigued by work that marries an aesthetic component with a technical one.
+I'm a front-end web developer based in Boulder, Colorado. I like thinking, creating, problem solving, and learning. I’m passionate about everything I do, and am particularly intrigued by work that marries an aesthetic component with a technical one.
 
 - 🌱 I’m currently learning Redux, Jest & Cyprus.io
 - 😄 Pronouns: He / Him
