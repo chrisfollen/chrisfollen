@@ -1,8 +1,8 @@
 ### Hi there ✌🏼
 
-I'm a front-end web developer based in Boulder, Colorado. I like thinking, creating, problem solving, and learning. I’m passionate about everything I do, and am particularly intrigued by work that marries an aesthetic component with a technical one.
+I'm a frontend software engineer based in Portland, Maine. I like thinking, creating, problem solving, and learning. I’m passionate about everything I do, and am particularly intrigued by work that marries an aesthetic component with a technical one.
 
-- 🌱 I’m currently learning Redux, Jest & Cyprus.io
+- 🌱 I’m currently learning RTK Query & Typescript
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I've surfed in the Arctic Circle
 
