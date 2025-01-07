@@ -1,8 +1,8 @@
 ### Hi there ✌🏼
 
-I'm a frontend software engineer based in Portland, Maine. I like thinking, creating, problem solving, and learning. I’m passionate about everything I do, and am particularly intrigued by work that marries an aesthetic component with a technical one.
+I'm a frontend software engineer based in coastal Maine. I like thinking, creating, problem solving, and learning. I’m passionate about everything I do, and am particularly intrigued by work that marries an aesthetic component with a technical one.
 
-- 🌱 I’m currently learning RTK Query & Typescript
+- 🌱 I’m currently learning: GraphQL
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I've surfed in the Arctic Circle
 
